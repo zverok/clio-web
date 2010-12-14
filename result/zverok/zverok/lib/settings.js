@@ -1,3 +1,0 @@
-ClioSettings = {
-    pageSize: 30
-}

@@ -1,1 +1,0 @@
-{"name":"23d11b6a__facepalm","body":"«facepalm как идея супер онлайн сервиса»","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/23d11b6a/facepalm","dateFriendly":"15 February 2010 в 22:37","id":"e/23d11b6a77df4f61b347f965011fd922","date":"2010-02-15T22:37:16Z","commands":["comment","edit","delete"]}

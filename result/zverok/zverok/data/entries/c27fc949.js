@@ -1,1 +1,0 @@
-{"name":"c27fc949","body":"Кстати, с днём независимости Польши! Чё-то как-то тяжело он прошёл.","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/c27fc949","dateFriendly":"11 November 2010 в 20:41","id":"e/c27fc949b5b7427d94350149ebfa9d54","date":"2010-11-11T20:41:41Z","commands":["comment","edit","delete"]}

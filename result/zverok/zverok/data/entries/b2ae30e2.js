@@ -1,1 +1,0 @@
-{"name":"b2ae30e2","body":"осознанный троллинг = контролируемое невежество.","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/b2ae30e2","dateFriendly":"10 November 2009 в 06:43","id":"e/b2ae30e24928462f8c4e9f06b5325df3","date":"2009-11-10T06:43:41Z","commands":["comment","edit","delete"]}

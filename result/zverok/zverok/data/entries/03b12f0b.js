@@ -1,1 +1,0 @@
-{"name":"03b12f0b","body":"«Воображариум Парнаса» хороший. Просто хороший","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/03b12f0b","dateFriendly":"08 February 2010 в 22:44","id":"e/03b12f0bffa049cb8b15954ad1803f4c","date":"2010-02-08T22:44:14Z","commands":["comment","edit","delete"]}

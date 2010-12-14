@@ -1,1 +1,0 @@
-{"name":"b1b85060__heil-moe","body":"Ю-ху! Пита получилась! Heil möe!","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/b1b85060/heil-moe","dateFriendly":"13 December 2009 в 18:00","id":"e/b1b8506087314de1b3c80dbeadf3590e","date":"2009-12-13T18:00:51Z","commands":["comment","edit","delete"]}
