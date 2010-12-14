@@ -1,0 +1,21 @@
+#!/usr/bin/env ruby
+$KCODE = 'u'
+
+require 'rubygems'
+require 'sequel'
+require 'logger'
+$l = Logger.new(STDOUT)
+$l.level = Logger::FATAL
+
+Sequel::Model.db = Sequel.mysql 'friendfeed_dwl',
+						:user => 'friendfeed_dwl',
+						:password => 'IUf2KYVo87gb3t',
+						:encoding => 'utf8',
+						:logger => $l
+
+$:.unshift File.join(File.dirname(__FILE__), '..', 'app')
+$:.unshift File.join(File.dirname(__FILE__), '..', 'lib')
+require 'models'
+require 'clio'
+
+Clio::App.run!  :host => 'localhost', :port => 9091

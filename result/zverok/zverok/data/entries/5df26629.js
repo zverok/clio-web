@@ -1,0 +1,1 @@
+{"name":"5df26629","body":"Проснулся. «Ну, что у нас плохого?»","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/5df26629","dateFriendly":"30 November 2010 в 18:11","id":"e/5df266296c8e4e1f93696dada9ec44a9","date":"2010-11-30T18:11:06Z","commands":["comment","edit","delete"]}

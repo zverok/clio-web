@@ -1,0 +1,1 @@
+{"name":"9ca9a28c__23","body":"уехал самару до 23го тчк","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/9ca9a28c/23","dateFriendly":"18 January 2010 в 16:14","id":"e/9ca9a28c19674073baa2ab9f251a8448","date":"2010-01-18T16:14:04Z","commands":["comment","edit","delete"]}

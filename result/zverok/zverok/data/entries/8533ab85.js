@@ -1,0 +1,1 @@
+{"name":"8533ab85","body":"Пушкиным не бейте! Ибо бью вас — им!","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/8533ab85","dateFriendly":"20 September 2009 в 20:52","id":"e/8533ab854290495c9832fac7846dad30","date":"2009-09-20T20:52:33Z","commands":["comment","edit","delete"]}

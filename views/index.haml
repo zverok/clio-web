@@ -1,0 +1,16 @@
+%p Привет! Это архиватор вашего френдфида
+%form{:method => :post}
+	%dl
+		%dt Юзернейм
+		%dd 
+			%input{:type => :text, :name => 'username'}
+		%dt 
+			Remote key (берут 
+			%a{:href => 'http://friendfeed.com/remotekey'} здесь
+			, обязательно — в последнее время френдфид отказывается без него отдавать информацию)
+		%dd
+			%input{:type => :text, :name => 'key'}
+	%p.buttons
+		%button{:type => :submit} Получить архив!
+
+%p Придётся подождать сколько-то минут. Не пугайтесь и не обновляйте страницу — работают люди!

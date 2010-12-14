@@ -1,0 +1,1 @@
+{"name":"66c26404","body":"спазмы нервотного характера","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/66c26404","dateFriendly":"23 July 2010 в 20:34","id":"e/66c264048bbc404991fb57baeb2eaf35","date":"2010-07-23T20:34:12Z","commands":["comment","edit","delete"]}

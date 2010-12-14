@@ -1,0 +1,1 @@
+{"name":"fdee10cd","body":"...некогда променявшим барабаны на саксофон.","from":{"name":"зверёк","id":"zverok","type":"user","commands":["post","dm"]},"url":"http://friendfeed.com/zverok/fdee10cd","dateFriendly":"24 November 2009 в 11:10","id":"e/fdee10cd490f4349b0e17df7596f1649","date":"2009-11-24T11:10:17Z","commands":["comment","edit","delete"]}

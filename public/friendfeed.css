@@ -1,0 +1,8 @@
+body{
+	font-family: Georgia, serif;
+}
+
+div.content{
+	width: 600px;
+	margin: auto;
+}
