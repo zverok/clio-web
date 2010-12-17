@@ -31,7 +31,8 @@ module Clio
 		end
 		
 		post '/' do
-			user = feed = params[:username]
+			user = params[:username]
+			feed = params[:feed] || user
 			key = params[:key]
 		
 			save_path = File.join(RESULT_PATH, user, feed)
@@ -70,12 +71,13 @@ module Clio
 			App.log.info "#{user}/#{feed}: templates copied"
 			
 			# 4. zip
-			Archive::Zip.archive(File.join(ARCHIVES_PATH, "#{user}.zip"), save_path)
+			random = (1..6).map{|i| rand(9)}.join
+			Archive::Zip.archive(File.join(ARCHIVES_PATH, "#{feed}-#{random}.zip"), save_path)
 			
 			App.log.info "#{user}/#{feed}: results archived"
 
 			# 5. show link to result
-			@link = "/zip/#{user}.zip"
+			@link = "/zip/#{feed}-#{random}.zip"
 			haml :result
 		end
 	end
