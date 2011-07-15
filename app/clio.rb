@@ -32,7 +32,8 @@ module Clio
 		
 		post '/' do
 			user = params[:username]
-			feed = params[:feed] || user
+			feed = params[:feed]
+            feed = user if !feed || feed.empty? 
 			key = params[:key]
 		
 			save_path = File.join(RESULT_PATH, user, feed)
